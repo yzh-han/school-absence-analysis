@@ -1,7 +1,5 @@
 # School Absence Analysis Application
 
-## CS5052 Practical 1: School's Out
-
 This is a console-based application, which analyzes pupil absence data in schools in England from 2006-2018 using Apache Spark and Python.
 
 ## Prerequisites
